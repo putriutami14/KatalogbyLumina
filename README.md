@@ -1,6 +1,5 @@
 <html>
 <head>
-<title> Katalog bylumina</title>
 	<BODY> 
 <body background= "background.jpeg">
 <TABLE border=1 Cellspacing=5 cellpadding=5 width=100%> 
